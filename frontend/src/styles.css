@@ -1,5 +1,0 @@
-body{font-family:system-ui,Segoe UI,Roboto,Helvetica,Arial,sans-serif;margin:0}
-input,button{padding:8px;border:1px solid #ddd;border-radius:8px}
-button{cursor:pointer}
-nav{display:flex;gap:12px;padding:12px;border-bottom:1px solid #eee}
-@media (max-width:600px){ nav{flex-wrap:wrap} }
